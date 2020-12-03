@@ -24,9 +24,9 @@ How many passwords are valid according to their policies?
 
 ### Acceptance criterias
 
-Input                  
+Input               | Output:
 
-"2-5 z: a
-2-8 d: b"
-| Ouput
+1-3 a: abcde        | 
+1-3 b: cdefg        | 
+2-9 c: ccccccccc    | true, false, true
 
